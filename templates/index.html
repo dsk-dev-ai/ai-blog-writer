@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NextGenToolkit AI Blog Writer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="card">
+
+    <h1>🚀 AI Blog Writer</h1>
+    <p class="subtitle">Generate blogs instantly using FREE local AI</p>
+
+    <form method="POST">
+        <input type="text" name="topic" placeholder="Enter topic (AI tools, Python tips...)" required>
+        <button type="submit">Generate ✨</button>
+    </form>
+
+    {% if result %}
+    <div class="result">
+        <h3>Generated Blog</h3>
+        <p>{{ result }}</p>
+    </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>
