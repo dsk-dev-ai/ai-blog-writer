@@ -17,7 +17,9 @@ A modern AI-powered blog generator built with Python and Flask that runs 100% lo
 - HTML/CSS
 
 ## 📸 Screenshot
-(Add screenshot here later)
+<img width="960" height="540" alt="1" src="https://github.com/user-attachments/assets/41cdd30e-f933-4088-aeb3-78878e61acb1" />
+<img width="960" height="540" alt="2" src="https://github.com/user-attachments/assets/619fdaf1-2bd9-49d2-9007-2835c57381bf" />
+
 
 ## ▶️ Run Locally
 
