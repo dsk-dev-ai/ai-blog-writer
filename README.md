@@ -17,12 +17,19 @@ A modern AI-powered blog generator built with Python and Flask that runs 100% lo
 - HTML/CSS
 
 ## 📸 Screenshot
-<img width="960" height="540" alt="1" src="https://github.com/user-attachments/assets/5b0df75e-810c-4d5a-aec8-3cfd35987434" />
-<img width="960" height="540" alt="2" src="https://github.com/user-attachments/assets/cc787fae-35ed-407e-92ba-59ed6950f364" />
-
+(Add screenshot here later)
 
 ## ▶️ Run Locally
 
 ```bash
 pip install flask
 python app.py
+```
+Then open:
+http://127.0.0.1:5000
+
+👨‍💻 Author
+Darshan Kachare
+AI Developer | Automation Builder
+
+---
