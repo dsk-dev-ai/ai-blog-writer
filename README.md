@@ -30,6 +30,17 @@ python app.py
 Then open:
 http://127.0.0.1:5000
 
+## 🧪 Tests
+
+```bash
+pip install -r requirements-dev.txt
+python -m pytest -q
+```
+
+Tests cover the home route (GET/POST), empty-topic validation, blog
+generation via the Ollama client, and Ollama-unreachable error handling.
+CI runs the suite on every push.
+
 👨‍💻 Author
 Darshan Kachare
 AI Developer | Automation Builder
