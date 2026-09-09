@@ -1,5 +1,8 @@
 # 🚀 AI Blog Writer (FREE Local AI)
 
+[![CI](https://github.com/dsk-dev-ai/ai-blog-writer/actions/workflows/ci.yml/badge.svg)](https://github.com/dsk-dev-ai/ai-blog-writer/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A modern AI-powered blog generator built with Python and Flask that runs 100% locally using Ollama (no API costs).
 
 ## ✨ Features
